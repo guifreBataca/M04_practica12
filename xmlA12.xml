@@ -1,0 +1,32 @@
+<students>
+  <student>
+    <name id="00">Abasi</name>
+    <surname id="01">Ali</surname>
+    <email id="02">albnji@gmail.net</email>
+    <dni id="03">34567845W</dni>
+  </student>
+  <student>
+    <name id="10">Joanet</name>
+    <surname id="11">Ariaka</surname>
+    <email id="12">asdpoui@gmail.com</email>
+    <dni id="13">45328657D</dni>
+  </student>
+  <student>
+    <name id="20">Paco</name>
+    <surname id="21">Jaume</surname>
+    <email id="22">Jordi</email>
+    <dni id="23">98623498S</dni>
+  </student>
+  <student>
+    <name id="30">Cintia</name>
+    <surname id="31">Jovanof</surname>
+    <email id="32">jajajajajaja@gmdi.jer</email>
+    <dni id="33">19283756I</dni>
+  </student>
+  <student>
+    <name id="40">Quevedo</name>
+    <surname id="41">Muscha</surname>
+    <email id="42">megamegafono@fono.mega</email>
+    <dni id="43">24608534X</dni>
+  </student>
+</students>
