@@ -5,5 +5,4 @@ def func1():
         resultado = json.load(file)
         print(json.dumps(resultado,indent=2))
 
-
             
