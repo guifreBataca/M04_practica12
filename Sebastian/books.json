@@ -1,0 +1,28 @@
+{
+      "book": {
+            "books:":{
+                "titel": "La Divina Comedia",
+                "cover": "Libro de Dante Alighieri",
+                "year": "1472",
+                "pages": "300"
+            },
+            "books": {
+                "titel": "Padre Rico, Padre Pobre",
+                "cover": "Libro de Robert Kiyosaki y Sharon Lechter",
+                "year": "1997",
+                "pages": "150"
+            },
+            "books": {
+                "titel": "Don Quijote de la Mancha",
+                "cover": "Novela de Miguel de Cervantes",
+                "year": "1605",
+                "pages": "250"
+            },
+            "books":{
+                "titel": "Sangre de campeón",
+                "cover": "Novela de Carlos Cuauhtémoc Sánchez",
+                "year": "2001",
+                "pages": "250"
+            }
+      }
+}
